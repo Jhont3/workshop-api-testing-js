@@ -1,1 +1,2 @@
-# workshop-api-testing-js
+# Workshop Api Testing in Javascript
+## This is a Workshop about api testing
